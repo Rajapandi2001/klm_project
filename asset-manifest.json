@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/klm_project/static/css/main.3d10600d.css",
-    "main.js": "/klm_project/static/js/main.0ac4c1c8.js",
+    "main.js": "/klm_project/static/js/main.ed3618ec.js",
     "static/js/453.520ef171.chunk.js": "/klm_project/static/js/453.520ef171.chunk.js",
     "index.html": "/klm_project/index.html",
     "main.3d10600d.css.map": "/klm_project/static/css/main.3d10600d.css.map",
-    "main.0ac4c1c8.js.map": "/klm_project/static/js/main.0ac4c1c8.js.map",
+    "main.ed3618ec.js.map": "/klm_project/static/js/main.ed3618ec.js.map",
     "453.520ef171.chunk.js.map": "/klm_project/static/js/453.520ef171.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d10600d.css",
-    "static/js/main.0ac4c1c8.js"
+    "static/js/main.ed3618ec.js"
   ]
 }
